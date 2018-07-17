@@ -1,4 +1,4 @@
-# Multiplication fusion of sparse and collaborative representation for robust face recognition
+# SCRC: Multiplication fusion of sparse and collaborative representation for robust face recognition 
 
 Connected domain: http://www.zengsn.com
 
